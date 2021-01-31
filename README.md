@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <C𝚘𝚍𝚎𝚛𝚜, Developers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <C𝚘𝚍𝚎𝚛𝚜 Developers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -16,7 +16,6 @@ Talk to me about:
 - Basics of **ML, DL, Tensorflow, Open-CV**.
 - Solving Data structure and algorithm questions using **Python**.
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Tarun Blog](https://medium.com/@tarunmittal2000).
 - 🎯 Portfolio site: [Portfolio](https://tarunmittalg.github.io/).
 - ⚡ Fun fact: Internet users blink less than usual.
