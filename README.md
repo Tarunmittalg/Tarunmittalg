@@ -8,6 +8,7 @@
 I am Tarun Mittal 😃. I am from Dholpur, Rajasthan and currently pursuing my B.Tech from Poornima College of Engineering, Jaipur, Rajasthan🏫. 
 
 I'm result-driven student, targeting challenging assignment in Data Science and Machine Learning and web development with an organization of high repute, preferably in IT and e-Commerce domains. I love to explore and learn about new things.
+
 “Coming together is a beginning, staying together is progress, and working together is success”.— Henry Ford
 ## 👯 Communities
 * Campus Ambassador at Regex Software Service.
