@@ -32,6 +32,7 @@ Talk to me about:
   <br><br>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunmittalg&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
-<br>![visitors](https://visitor-badge.glitch.me/badge?page_id=Tarunmittalg.Tarunmittalg)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunmittalg&theme=dark&show-icons=true" alt="GitHub Streak" align="center" width="48%"/>
+  <br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Tarunmittalg.Tarunmittalg)
 
