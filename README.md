@@ -26,25 +26,17 @@ Talk to me about:
 
 
 
-<html>
-  <head>
-    <meta charset='utf-8'>
-<details>
-  <summary>:chart_with_upwards_trend: STATS</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarunmittalg&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarunmittalg&hide=[%22issues%22]&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunmittalg&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
-</details>
 
-<details>
-  <summary>:fire: GitHub Streak:fire:</summary>
+
+
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunmittalg&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
-</details>
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Tarunmittalg&hide=[%22issues%22]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tarunmittalg.Tarunmittalg)
 
