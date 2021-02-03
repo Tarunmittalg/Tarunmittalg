@@ -29,12 +29,12 @@ Talk to me about:
 
   <img src="https://github-readme-stats.vercel.app/api?username=Tarunmittalg&hide=[%22issues%22]&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunmittalg&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
-  <br/>
+  <br>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 
 
 
-  <br/>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunmittalg&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
 
 
