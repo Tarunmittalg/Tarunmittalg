@@ -11,8 +11,9 @@ I'm result-driven student, targeting challenging assignment in Data Science and 
 
 “Coming together is a beginning, staying together is progress, and working together is success”.— Henry Ford
 ## 👯 Communities
+* Campus Ninja at Coding Ninja.
+* Student partner at GiveMyCertificate
 * Campus Ambassador at Regex Software Service.
-* Internshala Student Partner-19.
 * Do Volunteering in HackWithCW(An-international level Hackathon) organised by Code Warrior.
 ## ⚡ Technologies
 Talk to me about:
