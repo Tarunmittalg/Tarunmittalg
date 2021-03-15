@@ -42,8 +42,8 @@ Talk to me about:
   🔰BADGES🔰
   <br>
  
- <img src="Badge.jpg" height="200px" width="200px">
- <img src="Badge1.jpg" height="200px" width="200px">
+ <img src="Badge.jpg" height="200px" width="200px">&nsbp&nsvp<img src="Badge1.jpg" height="200px" width="200px">
+ 
   
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tarunmittalg.Tarunmittalg)
