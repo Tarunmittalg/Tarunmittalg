@@ -42,7 +42,8 @@ Talk to me about:
   🔰BADGES🔰
   <br>
  
- <img src="Badge.jpg" height="200px" width="200px"> <img src="Badge1.jpg" height="200px" width="200px">
+ <img src="Badge.jpg" height="200px" width="200px"> <img src="Badge1.jpg" height="200px" width="200px"> <img src="Badge 3.png" height="200px" width="200px">
+ 
  
   
   
